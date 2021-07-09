@@ -2,7 +2,6 @@ package com.sorting;
 
 public class SortAlgorithms {
     private SortAlgorithms(){
-
     }
 
     public static void insertionSort(int[] arr) {
