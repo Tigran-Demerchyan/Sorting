@@ -6,6 +6,7 @@ public class MyMain {
 
     public static void main(String[] args) {
 
+
         int[] arr1 = {89, 32, 76, 45, 23, 98, 33, 111, 1, 23};
         SortAlgorithms.insertionSort(arr1);
         System.out.println(Arrays.toString(arr1));
